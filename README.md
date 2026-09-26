@@ -30,7 +30,7 @@ A complete on-chain wallet accumulation monitoring system — supports EVM chain
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Mohkadd98/wallet-accumulation-analyzer.git](https://github.com/Mohkadd98/Wallet-Accumulation-Analyzer.git)
+git clone [https://github.com/Mohkadd98/wallet-accumulation-analyzer.git]
 cd wallet-accumulation-analyzer
 
 # Install dependencies
